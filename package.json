@@ -2,8 +2,10 @@
   "name": "responsi",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dzakwanzaky.github.io/responsi",
   "dependencies": {
     "dotenv": "^8.0.0",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
